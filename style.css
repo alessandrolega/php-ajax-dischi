@@ -1,0 +1,17 @@
+body {
+    background-color: #1e2d3b;
+  }
+  
+  .card {
+    width: calc(100% / 6);
+    padding: 20px;
+  }
+  
+  .row {
+    gap: 10px;
+    justify-content: space-between;
+  }
+  
+  .card {
+    background-color: #2e3a46;
+  }
